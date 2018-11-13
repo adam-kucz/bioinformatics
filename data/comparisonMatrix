@@ -1,0 +1,5 @@
+# Example matrix used to compare algorithms
+ 0  5  7 10
+ 5  0  4  7
+ 7  4  0  5
+10  7  5  0
